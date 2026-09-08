@@ -1,3 +1,6 @@
+select*from left_shopping1;
+select*from right_shopping1;
+
 1)List all customers with their age and gender.
 select*from left_shopping1;
 
